@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ecpe",
+    "name": "ECPE",
+    "url": "https://www.ecpe.org/events/workshops-tutorials/all/",
+    "base_country": "德国",
+    "kind": "研究机构",
+    "collection": "structured",
+    "focus": "SiC/GaN、EMC、可靠性、器件、控制",
+    "priority": "A"
+  },
+  {
+    "id": "cluster",
+    "name": "Cluster Leistungselektronik",
+    "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/",
+    "base_country": "德国",
+    "kind": "行业联盟",
+    "collection": "structured",
+    "focus": "德语培训、EMC、驱动、功率模块",
+    "priority": "A"
+  },
+  {
+    "id": "biricha",
+    "name": "Biricha Digital Power",
+    "url": "https://store.biricha.com/workshops.php",
+    "base_country": "英国",
+    "kind": "专业培训",
+    "collection": "structured",
+    "focus": "SMPS、PFC、控制环路、EMC",
+    "priority": "A"
+  },
+  {
+    "id": "pcim",
+    "name": "PCIM Seminars",
+    "url": "https://pcim.mesago.com/nuernberg/en/conference/seminars.html",
+    "base_country": "德国",
+    "kind": "行业大会",
+    "collection": "watch",
+    "focus": "电力电子技术研讨会、行业交流",
+    "priority": "B"
+  },
+  {
+    "id": "hdt",
+    "name": "Haus der Technik",
+    "url": "https://www.hdt.de/seminare-workshops/elektronik/",
+    "base_country": "德国",
+    "kind": "继续教育",
+    "collection": "watch",
+    "focus": "电力电子、逆变器、EV",
+    "priority": "A"
+  },
+  {
+    "id": "tae",
+    "name": "Technische Akademie Esslingen",
+    "url": "https://www.tae.de/weiterbildung/elektrotechnik-elektronik/grundlagen-basiswissen/aufbauseminar-elektronik/",
+    "base_country": "德国",
+    "kind": "继续教育",
+    "collection": "watch",
+    "focus": "基础、功率半导体、仿真",
+    "priority": "A"
+  },
+  {
+    "id": "etech",
+    "name": "Etech-Akademie",
+    "url": "https://www.etech-akademie.de/seminar/kategorie/grundlagen/",
+    "base_country": "德国",
+    "kind": "专业培训",
+    "collection": "structured",
+    "focus": "汽车电力电子、HV、电机驱动",
+    "priority": "A"
+  },
+  {
+    "id": "kit",
+    "name": "KIT HECTOR School",
+    "url": "https://www.hectorschool.kit.edu/certificate-courses/energy-engineering.php",
+    "base_country": "德国",
+    "kind": "大学课程",
+    "collection": "watch",
+    "focus": "Power Electronics、实验",
+    "priority": "B"
+  },
+  {
+    "id": "fraunhofer-iee",
+    "name": "Fraunhofer IEE",
+    "url": "https://www.iee.fraunhofer.de/de/weiterbildung-und-wissenstransfer/seminarangebot.html",
+    "base_country": "德国",
+    "kind": "研究机构",
+    "collection": "watch",
+    "focus": "电动汽车、储能、并网变流器",
+    "priority": "B"
+  },
+  {
+    "id": "wuerth",
+    "name": "Würth Elektronik",
+    "url": "https://www.we-online.com/en/news-center/events/webinars",
+    "base_country": "德国",
+    "kind": "元器件厂商",
+    "collection": "structured",
+    "focus": "磁性元件、DC/DC、EMC",
+    "priority": "A"
+  },
+  {
+    "id": "infineon",
+    "name": "Infineon",
+    "url": "https://www.infineon.com/event/webinar/2026/accelerate-your-gan-design-tips-and-tricks-to-design-smarter-and-troubleshoot-quickly",
+    "base_country": "德国",
+    "kind": "功率半导体",
+    "collection": "watch",
+    "focus": "SiC、GaN、Gate Driver",
+    "priority": "A"
+  },
+  {
+    "id": "semikron",
+    "name": "Semikron Danfoss",
+    "url": "https://www.semikron-danfoss.com/about-semikron-danfoss/news-events/technical-webinars",
+    "base_country": "德国",
+    "kind": "功率模块厂商",
+    "collection": "watch",
+    "focus": "IGBT、模块、可靠性",
+    "priority": "B"
+  },
+  {
+    "id": "plexim",
+    "name": "Plexim / PLECS",
+    "url": "https://www.plexim.com/events/seminars",
+    "base_country": "瑞士",
+    "kind": "仿真工具",
+    "collection": "structured",
+    "focus": "PLECS 建模、实时仿真",
+    "priority": "B"
+  },
+  {
+    "id": "ti",
+    "name": "Texas Instruments",
+    "url": "https://www.ti.com/about-ti/events/power-supply-design-webinar-series.html",
+    "base_country": "欧洲/全球",
+    "kind": "半导体厂商",
+    "collection": "structured",
+    "focus": "DC/DC、控制环路、EMI",
+    "priority": "A"
+  },
+  {
+    "id": "st",
+    "name": "STMicroelectronics",
+    "url": "https://www.st.com/content/st_com/en/events/biricha-workshop.html",
+    "base_country": "欧洲",
+    "kind": "半导体厂商",
+    "collection": "watch",
+    "focus": "数字电源、STM32、PFC",
+    "priority": "B"
+  },
+  {
+    "id": "ieee",
+    "name": "IEEE PELS",
+    "url": "https://www.ieee-pels.org/education/webinars/",
+    "base_country": "欧洲/全球",
+    "kind": "专业学会",
+    "collection": "structured",
+    "focus": "先进变换器、电网、SiC、控制",
+    "priority": "A"
+  },
+  {
+    "id": "rohde",
+    "name": "Rohde & Schwarz",
+    "url": "https://www.rohde-schwarz.com/de/knowledge-center/events/events_258702.html?sort=rsContentType&term=%2A",
+    "base_country": "德国",
+    "kind": "测试测量",
+    "collection": "watch",
+    "focus": "功率测试、EMI、效率",
+    "priority": "B"
+  },
+  {
+    "id": "fraunhofer-izm",
+    "name": "Fraunhofer IZM",
+    "url": "https://www.izm.fraunhofer.de/de/events/ak-ecorel.html",
+    "base_country": "德国",
+    "kind": "研究机构",
+    "collection": "watch",
+    "focus": "封装可靠性、热管理",
+    "priority": "B"
+  }
+]

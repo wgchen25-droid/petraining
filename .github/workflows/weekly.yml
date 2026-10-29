@@ -1,0 +1,83 @@
+name: Collect weekly & publish training radar
+
+on:
+  schedule:
+    # Monday 06:17 UTC (07:17 CET winter / 08:17 CEST summer)
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/courses.json'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pe-training-pages
+  cancel-in-progress: false
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out latest source
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install collector dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Test parser and event data
+        run: python -m unittest discover -s tests -v
+
+      - name: Weekly crawl of official sources
+        id: scan
+        continue-on-error: true
+        run: python scripts/collect.py
+
+      - name: Warn if all websites were unreachable
+        if: steps.scan.outcome == 'failure'
+        run: echo '::warning::No successful scan; keeping last verified data. Review website access logs.'
+
+      - name: Commit updated training data
+        if: steps.scan.outcome == 'success'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/courses.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh weekly power electronics training courses'
+            git push origin HEAD:main
+          fi
+
+      - name: Prepare static site
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp data/sources.json data/courses.json _site/data/
+          touch _site/.nojekyll
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
