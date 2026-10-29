@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-29T20:00:00Z",
-  "last_successful_scan": null,
+  "generated_at": "2026-10-29T20:56:17+00:00",
+  "last_successful_scan": "2026-10-29T20:56:17+00:00",
   "courses": [
+    {
+      "id": "4c37adaa372b",
+      "source_id": "etech",
+      "provider": "Etech-Akademie",
+      "title": "Grundlagen der Elektromobilität",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "基础与设计",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.etech-akademie.de/grundwissen-der-elektromobilitat-kurs101012/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
+      "id": "7cf2ed120bb9",
+      "source_id": "etech",
+      "provider": "Etech-Akademie",
+      "title": "Hochvolt Batterien in der Elektromobilität",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "基础与设计",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.etech-akademie.de/hochvolt-batterien-in-der-elektromobilitaet-kurs102008/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
     {
       "id": "861e60e3eb90",
       "source_id": "cluster",
@@ -21,6 +57,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "12ba3c7db9aa",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "EMV in der Leistungselektronik | Cluster-Schulung | Hybrid wo? Berlin / Online, Deutschland wann? 04/11/2026 - 05/11/2026",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-05",
+      "city": "Berlin",
+      "country": "德国",
+      "mode": "混合",
+      "category": "EMC / EMI",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/534/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=ab767013ee4763edbe29fef54ada4b25",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "b84bf68f1867",
       "source_id": "rohde",
       "provider": "Rohde & Schwarz",
@@ -37,6 +91,24 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "80a2bc2bbed3",
+      "source_id": "ieee",
+      "provider": "IEEE PELS",
+      "title": "Integrated PV-Storage Solution: Building a Green, Reliable, and Intelligent Power System",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "电驱与新能源",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ieee-pels.org/webinars/integrated-pv-storage-solution-building-a-green-reliable-and-intelligent-power-system/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "e02d4b6ed303",
@@ -93,6 +165,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "c0a3fc011ef0",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "Zuverlässigkeit und Lebensdauer elektronischer Systeme | Cluster-Schulung wo? Würzburg, Deutschland wann? 10/11/2026 - 11/11/2026",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-11",
+      "city": "Würzburg",
+      "country": "德国",
+      "mode": "线下",
+      "category": "热管理与可靠性",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/206/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=c018fd53004d5d569cfa9b471590c02f",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "09f1ff6ab708",
       "source_id": "ecpe",
       "provider": "ECPE",
@@ -109,6 +199,24 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "6880c24f20df",
+      "source_id": "ecpe",
+      "provider": "ECPE",
+      "title": "Isolation Coordination | ECPE Tutorial where? Delft, Netherlands when? 10/11/2026 - 11/11/2026",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-11",
+      "city": "Delft",
+      "country": "荷兰",
+      "mode": "线下",
+      "category": "热管理与可靠性",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ecpe.org/events/workshops-tutorials/all/details/evt/mdl/ed/728/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8Mjg3fDIwMzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=8c0c1035da745be627cac7afdca23a1b",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "4a26739290ad",
@@ -129,6 +237,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "1078ae32f2a9",
+      "source_id": "ieee",
+      "provider": "IEEE PELS",
+      "title": "Powering E-Mobility: Magnetic Switch-Sensor-Based Inductive Power Transfer System with Enhanced Power Control and Optimization",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "功率器件与封装",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ieee-pels.org/webinars/powering-e-mobility-magnetic-switch-sensor-based-inductive-power-transfer-system-with-enhanced-power-control-and-optimization/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "e800dac7a4dd",
       "source_id": "ieee",
       "provider": "IEEE PELS",
@@ -145,6 +271,24 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "7fbabf6d0136",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "ABGESAGT! Stromsensoren in der Leistungselektronik | Cluster-Schulung wo? Nürnberg, Deutschland wann? 17/11/2026",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "city": "Nürnberg",
+      "country": "德国",
+      "mode": "线下",
+      "category": "功率器件与封装",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/628/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=7e580d5cb32058bcf2952d1edaffef11",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "3084f5cb5cab",
@@ -237,6 +381,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "bdaf73695adb",
+      "source_id": "ecpe",
+      "provider": "ECPE",
+      "title": "Status of Reliability in Power Electronics | ECPE Workshop | HYBRID where? Berlin, Germany when? 18/11/2026 - 19/11/2026",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-19",
+      "city": "Berlin",
+      "country": "德国",
+      "mode": "混合",
+      "category": "热管理与可靠性",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ecpe.org/events/workshops-tutorials/all/details/evt/mdl/ed/742/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8Mjg3fDIwMzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=79ce778664a9941f1863507ac1265f70",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "03c769502dc5",
       "source_id": "etech",
       "provider": "Etech-Akademie",
@@ -253,6 +415,24 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "de2d5c75841f",
+      "source_id": "etech",
+      "provider": "Etech-Akademie",
+      "title": "Hochvolt-Bordnetz im Hybrid- und Elektrofahrzeug (u.a. ISO DIS 21498)",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "基础与设计",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.etech-akademie.de/hochvolt-bordnetz-im-hybrid-und-elektrofahrzeug-kurs101002/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "275980cab6ee",
@@ -282,10 +462,10 @@
       "city": "Online",
       "country": "欧洲/全球",
       "mode": "线上",
-      "category": "控制与仿真",
+      "category": "电驱与新能源",
       "language": "英语",
       "price_eur": null,
-      "url": "https://www.ieee-pels.org/education/webinars/",
+      "url": "https://www.ieee-pels.org/webinars/grid-forming-loads-for-modern-power-systems/",
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
@@ -321,7 +501,7 @@
       "category": "控制与仿真",
       "language": "英语",
       "price_eur": 2950,
-      "url": "https://store.biricha.com/workshops.php",
+      "url": "https://biricha.com/workshops/in-person/power-supply-control-loop-design-workshop/",
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
@@ -381,6 +561,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "ba97fe58061d",
+      "source_id": "ieee",
+      "provider": "IEEE PELS",
+      "title": "Solid‑State Transformer for AIDC: Research and Industry Status, Insulation Technology and Future Development",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "基础与设计",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ieee-pels.org/webinars/solid-state-transformer-for-aidc-research-and-industry-status-insulation-technology-and-future-development/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "b97c45e70e13",
       "source_id": "biricha",
       "provider": "Biricha Digital Power",
@@ -393,7 +591,7 @@
       "category": "控制与仿真",
       "language": "英语",
       "price_eur": 2950,
-      "url": "https://store.biricha.com/workshops.php",
+      "url": "https://biricha.com/workshops/in-person/st-digital-power-supply-and-pfc-design-workshop/",
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
@@ -411,7 +609,7 @@
       "category": "EMC / EMI",
       "language": "英语",
       "price_eur": 2950,
-      "url": "https://store.biricha.com/workshops.php",
+      "url": "https://biricha.com/workshops/in-person/hands-on-emc-debug-workshop/",
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
@@ -433,6 +631,24 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "433160c4f046",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "Modellbildung, analoge und digitale Regelung von Schaltnetzteilen | Cluster-Schulung | Online wo? Online, Deutschland wann? 01/12/2026 - 02/12/2026",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-02",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "控制与仿真",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/158/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=74e4f12c5b51610962c4f714613eefdf",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "7a08a282ce0f",
@@ -471,6 +687,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "837c568a8644",
+      "source_id": "ecpe",
+      "provider": "ECPE",
+      "title": "Wide Bandgap User Training – GaN-based Power Electronics | ECPE Tutorial where? Lyon, France when? 02/12/2026 - 03/12/2026",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-03",
+      "city": "Lyon",
+      "country": "法国",
+      "mode": "线下",
+      "category": "SiC / GaN",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ecpe.org/events/workshops-tutorials/all/details/evt/mdl/ed/741/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8Mjg3fDIwMzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=f7677498617f10e52453193f82f67b88",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "b3de09d42539",
       "source_id": "ecpe",
       "provider": "ECPE",
@@ -487,6 +721,24 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "29345026dc6d",
+      "source_id": "ecpe",
+      "provider": "ECPE",
+      "title": "Passives in Power Electronics: Magnetic Component Design and Simulation | ECPE Tutorial where? Prague, Czech Republic when? 03/12/2026 - 04/12/2026",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-04",
+      "city": "Prague",
+      "country": "捷克",
+      "mode": "线下",
+      "category": "控制与仿真",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ecpe.org/events/workshops-tutorials/all/details/evt/mdl/ed/737/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8Mjg3fDIwMzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=fcefd7a7e75e7d9fdd890c3cc28d8eff",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "b165d7555b1b",
@@ -507,6 +759,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "ca0cb8dafabf",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "KI für Produktionsprozesse von Komponenten elektrischer Antriebssysteme | Cluster-Schulung wo? Nürnberg, Deutschland wann? 09/12/2026 - 10/12/2026",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-10",
+      "city": "Nürnberg",
+      "country": "德国",
+      "mode": "线下",
+      "category": "电驱与新能源",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/770/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=e10d38cd06e045064e02ce29c20d1d85",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "0b002d6ab58a",
       "source_id": "ecpe",
       "provider": "ECPE",
@@ -523,6 +793,60 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "778df1c06092",
+      "source_id": "ecpe",
+      "provider": "ECPE",
+      "title": "Capacitors in Power Electronics | ECPE Tutorial where? Hamburg, Germany when? 09/12/2026 - 10/12/2026",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-10",
+      "city": "Hamburg",
+      "country": "德国",
+      "mode": "线下",
+      "category": "基础与设计",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ecpe.org/events/workshops-tutorials/all/details/evt/mdl/ed/756/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8Mjg3fDIwMzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=4c15177f3dbd4e31bc6df04ac9ce2104",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
+      "id": "b20114f025b1",
+      "source_id": "ieee",
+      "provider": "IEEE PELS",
+      "title": "A Review of Power Distribution Architecture Solutions for Servers within Data Centers",
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "基础与设计",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ieee-pels.org/webinars/a-review-of-power-distribution-architecture-solutions-for-servers-within-data-centers/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
+      "id": "94472688c588",
+      "source_id": "etech",
+      "provider": "Etech-Akademie",
+      "title": "Lagerströme im Fokus – Hochfrequenzeffekte und Abhilfe-Maßnahme für moderne Antriebssysteme",
+      "start_date": "2027-02-18",
+      "end_date": "2027-02-18",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "电驱与新能源",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.etech-akademie.de/lagerstroeme-im-fokus-hochfrequenzeffekte-und-abhilfe-massnahme-fuer-moderne-antriebssysteme/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "a66cc385e8ac",
@@ -543,6 +867,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "402bfc2c66c7",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "Advanced and Innovative Cooling of Power Electronics | ECPE/Cluster Tutorial wo? Erlangen, Deutschland wann? 02/03/2027 - 03/03/2027",
+      "start_date": "2027-03-02",
+      "end_date": "2027-03-03",
+      "city": "Erlangen",
+      "country": "德国",
+      "mode": "线下",
+      "category": "热管理与可靠性",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/767/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=ab57fc538d0dc4f4653a1e04c09d53c6",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "a4dedb349a1a",
       "source_id": "ecpe",
       "provider": "ECPE",
@@ -559,6 +901,24 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "accb30859c20",
+      "source_id": "ecpe",
+      "provider": "ECPE",
+      "title": "Advanced and Innovative Cooling of Power Electronics | ECPE/Cluster Tutorial where? Erlangen, Germany when? 02/03/2027 - 03/03/2027",
+      "start_date": "2027-03-02",
+      "end_date": "2027-03-03",
+      "city": "Erlangen",
+      "country": "德国",
+      "mode": "线下",
+      "category": "热管理与可靠性",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ecpe.org/events/workshops-tutorials/all/details/evt/mdl/ed/767/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8Mjg3fDIwMzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=99d528299ccf872c171f7b0e23af5ade",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "0d221ca0a918",
@@ -597,6 +957,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "75172dda752a",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "Praxistraining Filterauslegung | Cluster-Schulung wo? Nürnberg, Deutschland wann? 03/03/2027 - 04/03/2027",
+      "start_date": "2027-03-03",
+      "end_date": "2027-03-04",
+      "city": "Nürnberg",
+      "country": "德国",
+      "mode": "线下",
+      "category": "EMC / EMI",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/688/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=8373f55129aa95519a46b931bf54dca4",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "ee8db8fca218",
       "source_id": "fraunhofer-izm",
       "provider": "Fraunhofer IZM",
@@ -615,6 +993,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "33b42be2d845",
+      "source_id": "etech",
+      "provider": "Etech-Akademie",
+      "title": "Grundlagen der Elektrotechnik für die Elektromobilität – Crashkurs",
+      "start_date": "2027-03-10",
+      "end_date": "2027-03-10",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "基础与设计",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.etech-akademie.de/elektrotechnik-crashkurs/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "545015125b61",
       "source_id": "etech",
       "provider": "Etech-Akademie",
@@ -631,6 +1027,24 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "1babb8e2346b",
+      "source_id": "etech",
+      "provider": "Etech-Akademie",
+      "title": "Ladeinfrastruktur – Planung, Aufbau und Betrieb",
+      "start_date": "2027-03-10",
+      "end_date": "2027-03-10",
+      "city": "Online",
+      "country": "欧洲/全球",
+      "mode": "线上",
+      "category": "基础与设计",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.etech-akademie.de/ladeinfrastruktur-planung-aufbau-und-betrieb-seminar-fortbildung-101015/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "5e783c07fbb4",
@@ -663,7 +1077,7 @@
       "category": "EMC / EMI",
       "language": "英语",
       "price_eur": 2950,
-      "url": "https://store.biricha.com/workshops.php",
+      "url": "https://biricha.com/workshops/in-person/hands-on-emc-debug-workshop/",
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
@@ -717,7 +1131,7 @@
       "category": "EMC / EMI",
       "language": "英语",
       "price_eur": 2750,
-      "url": "https://store.biricha.com/workshops.php",
+      "url": "https://biricha.com/workshops/in-person/emc-filter-design-workshop/",
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
@@ -741,6 +1155,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "47fe4b1dcca2",
+      "source_id": "ecpe",
+      "provider": "ECPE",
+      "title": "EMC Optimised Design (Parasitics in Power Electronics) | ECPE Lab Course where? Berlin, Germany when? 22/04/2027 - 23/04/2027",
+      "start_date": "2027-04-22",
+      "end_date": "2027-04-23",
+      "city": "Berlin",
+      "country": "德国",
+      "mode": "线下",
+      "category": "EMC / EMI",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://www.ecpe.org/events/workshops-tutorials/all/details/evt/mdl/ed/588/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8Mjg3fDIwMzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=ff1a87ab097013db50d5d49f818b457a",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "2a9ac96fdb67",
       "source_id": "cluster",
       "provider": "Cluster Leistungselektronik",
@@ -757,6 +1189,60 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "9172cc5c8d57",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "Parasitäre Effekte in der Leistungselektronik | Cluster-Laborkurs wo? Berlin, Deutschland wann? 26/04/2027 - 27/04/2027",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-27",
+      "city": "Berlin",
+      "country": "德国",
+      "mode": "线下",
+      "category": "基础与设计",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/689/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=89ed9b3a8808d47bb16b7b01ba17712a",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
+      "id": "97cbcfba680e",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "Isolationskoordination in leistungselektronischen Baugruppen und Geräten | Cluster-Schulung | Hybrid wo? Nürnberg/Online, Deutschland wann? 27/04/2027",
+      "start_date": "2027-04-27",
+      "end_date": "2027-04-27",
+      "city": "Nürnberg",
+      "country": "德国",
+      "mode": "混合",
+      "category": "热管理与可靠性",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/686/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=9affc402b6037db2e11e2f59c91d7c54",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
+      "id": "095a166b3ccb",
+      "source_id": "biricha",
+      "provider": "Biricha Digital Power",
+      "title": "Power Supply Hardware Design Workshop",
+      "start_date": "2027-05-04",
+      "end_date": "2027-05-07",
+      "city": "Munich",
+      "country": "德国",
+      "mode": "线下",
+      "category": "基础与设计",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://biricha.com/workshops/in-person/in-person-psu-design-workshop/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "4e0bfbc2c8d5",
@@ -777,6 +1263,24 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "e95538cd8a31",
+      "source_id": "biricha",
+      "provider": "Biricha Digital Power",
+      "title": "EMC Debug Workshop",
+      "start_date": "2027-05-11",
+      "end_date": "2027-05-14",
+      "city": "Munich",
+      "country": "德国",
+      "mode": "线下",
+      "category": "EMC / EMI",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://biricha.com/workshops/in-person/hands-on-emc-debug-workshop/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "143f22acdb43",
       "source_id": "kit",
       "provider": "KIT HECTOR School",
@@ -793,6 +1297,24 @@
       "notes": "",
       "verified_at": "2026-10-29",
       "origin": "官方网页人工核实"
+    },
+    {
+      "id": "0b116511d7bc",
+      "source_id": "cluster",
+      "provider": "Cluster Leistungselektronik",
+      "title": "Ausfallmechanismen: Isolationspolymere in der Leistungselektronik | Cluster-Schulung | Hybrid wo? Kassel, Deutschland wann? 02/06/2027 - 03/06/2027",
+      "start_date": "2027-06-02",
+      "end_date": "2027-06-03",
+      "city": "Kassel",
+      "country": "德国",
+      "mode": "混合",
+      "category": "热管理与可靠性",
+      "language": "待确认",
+      "price_eur": null,
+      "url": "https://www.clusterle.de/veranstaltungen/schulungen-seminare/alle/alle-details/evt/mdl/ed/780/eyJtZjEiOnsibWx1MSI6Inx8fHx8fHwifSwiZWYyIjp7ImVsdTEiOiIxfGx1ZmVkaXRtZWRpYWxpYnJhcnl8TWVkaWFMaWJyYXJ5RXZlbnRMaXN0fE1lZGlhTGlicmFyeXxldmVudExpc3R8NTMxfDQ3Mzd8IiwiZXBjOSI6dHJ1ZX0sInJmMyI6eyJyb2FkbWFwTGlzdFVyaSI6Inx8fHx8fHwifSwiYmY0Ijp7ImJsdTEiOiJ8fHx8fHx8In0sImxkNSI6eyJsZHUxIjoifHx8fHx8fCJ9fQ==/?cHash=0f46c822199250d991a61662ab510dbc",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
     },
     {
       "id": "ff5a7dc5d662",
@@ -831,6 +1353,42 @@
       "origin": "官方网页人工核实"
     },
     {
+      "id": "55baaa81162f",
+      "source_id": "biricha",
+      "provider": "Biricha Digital Power",
+      "title": "Power Supply Control Loop Design Workshop",
+      "start_date": "2027-10-19",
+      "end_date": "2027-10-22",
+      "city": "Munich",
+      "country": "德国",
+      "mode": "线下",
+      "category": "控制与仿真",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://biricha.com/workshops/in-person/power-supply-control-loop-design-workshop/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
+      "id": "f46665422642",
+      "source_id": "biricha",
+      "provider": "Biricha Digital Power",
+      "title": "EMC Filter Design Workshop",
+      "start_date": "2027-10-26",
+      "end_date": "2027-10-28",
+      "city": "Munich",
+      "country": "德国",
+      "mode": "线下",
+      "category": "EMC / EMI",
+      "language": "英语",
+      "price_eur": null,
+      "url": "https://biricha.com/workshops/in-person/emc-filter-design-workshop/",
+      "notes": "",
+      "verified_at": "2026-10-29",
+      "origin": "自动提取 · 官方网页"
+    },
+    {
       "id": "8583055bc82b",
       "source_id": "tae",
       "provider": "Technische Akademie Esslingen",
@@ -851,112 +1409,148 @@
   ],
   "source_status": {
     "ecpe": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 7,
+      "last_changed": null,
+      "content_hash": "5e2d2b7180b6fca1"
     },
     "cluster": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 10,
+      "last_changed": null,
+      "content_hash": "a47cd849d8ede657"
     },
     "biricha": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 4,
+      "last_changed": null,
+      "content_hash": "14c5263b7cd36b39"
     },
     "pcim": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "acbf9be21d1075ba"
     },
     "hdt": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "d2b568a29c490813"
     },
     "tae": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "9d1d5537c4edd287"
     },
     "etech": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 6,
+      "last_changed": null,
+      "content_hash": "9e3c38af3f37fdd5"
     },
     "kit": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "13bbdb97f4962fd3"
     },
     "fraunhofer-iee": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "d2c97c05ac4e8ef9"
     },
     "wuerth": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "blocked",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": null
     },
     "infineon": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "7cda2c4972a53cf6"
     },
     "semikron": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "23e66ca705480f76"
     },
     "plexim": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "898f21e7568caa8b"
     },
     "ti": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "6900fda374dfcdb9"
     },
     "st": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "error",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": null
     },
     "ieee": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 4,
+      "last_changed": null,
+      "content_hash": "330d5d0528855800"
     },
     "rohde": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "d3fb319f4bbfc52e"
     },
     "fraunhofer-izm": {
-      "status": "待首次运行",
-      "last_checked": null,
+      "status": "ok",
+      "last_checked": "2026-10-29T20:56:17+00:00",
       "changed": false,
-      "new_courses": 0
+      "new_courses": 0,
+      "last_changed": null,
+      "content_hash": "68d2e84e2a18c871"
     }
   },
   "total_sources": 18
