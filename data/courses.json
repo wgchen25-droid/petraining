@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T20:56:17+00:00",
-  "last_successful_scan": "2026-10-29T20:56:17+00:00",
+  "generated_at": "2026-10-29T21:04:31+00:00",
+  "last_successful_scan": "2026-10-29T21:04:31+00:00",
   "courses": [
     {
       "id": "4c37adaa372b",
@@ -1410,31 +1410,31 @@
   "source_status": {
     "ecpe": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
-      "new_courses": 7,
+      "new_courses": 0,
       "last_changed": null,
       "content_hash": "5e2d2b7180b6fca1"
     },
     "cluster": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
-      "new_courses": 10,
+      "new_courses": 0,
       "last_changed": null,
       "content_hash": "a47cd849d8ede657"
     },
     "biricha": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
-      "new_courses": 4,
+      "new_courses": 0,
       "last_changed": null,
       "content_hash": "14c5263b7cd36b39"
     },
     "pcim": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1442,7 +1442,7 @@
     },
     "hdt": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1450,23 +1450,23 @@
     },
     "tae": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
-      "changed": false,
+      "last_checked": "2026-10-29T21:04:31+00:00",
+      "changed": true,
       "new_courses": 0,
-      "last_changed": null,
-      "content_hash": "9d1d5537c4edd287"
+      "last_changed": "2026-10-29T21:04:31+00:00",
+      "content_hash": "131bb948c1a35d6e"
     },
     "etech": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
-      "new_courses": 6,
+      "new_courses": 0,
       "last_changed": null,
       "content_hash": "9e3c38af3f37fdd5"
     },
     "kit": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1474,15 +1474,15 @@
     },
     "fraunhofer-iee": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
-      "changed": false,
+      "last_checked": "2026-10-29T21:04:31+00:00",
+      "changed": true,
       "new_courses": 0,
-      "last_changed": null,
-      "content_hash": "d2c97c05ac4e8ef9"
+      "last_changed": "2026-10-29T21:04:31+00:00",
+      "content_hash": "63e6aad53a3e57f3"
     },
     "wuerth": {
       "status": "blocked",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1490,7 +1490,7 @@
     },
     "infineon": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1498,7 +1498,7 @@
     },
     "semikron": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1506,7 +1506,7 @@
     },
     "plexim": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1514,7 +1514,7 @@
     },
     "ti": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1522,7 +1522,7 @@
     },
     "st": {
       "status": "error",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1530,15 +1530,15 @@
     },
     "ieee": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
-      "new_courses": 4,
+      "new_courses": 0,
       "last_changed": null,
       "content_hash": "330d5d0528855800"
     },
     "rohde": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
+      "last_checked": "2026-10-29T21:04:31+00:00",
       "changed": false,
       "new_courses": 0,
       "last_changed": null,
@@ -1546,11 +1546,11 @@
     },
     "fraunhofer-izm": {
       "status": "ok",
-      "last_checked": "2026-10-29T20:56:17+00:00",
-      "changed": false,
+      "last_checked": "2026-10-29T21:04:31+00:00",
+      "changed": true,
       "new_courses": 0,
-      "last_changed": null,
-      "content_hash": "68d2e84e2a18c871"
+      "last_changed": "2026-10-29T21:04:31+00:00",
+      "content_hash": "a111f93754b65647"
     }
   },
   "total_sources": 18
