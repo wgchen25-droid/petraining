@@ -29,6 +29,7 @@ jobs:
       - name: Check out latest source
         uses: actions/checkout@v6
         with:
+          ref: main
           persist-credentials: true
 
       - name: Set up Python
